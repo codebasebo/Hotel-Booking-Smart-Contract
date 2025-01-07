@@ -1,10 +1,6 @@
 
 # HotelBooking Smart Contract
 
-![Solidity](https://img.shields.io/badge/Solidity-0.8.20-blue)
-![Hardhat](https://img.shields.io/badge/Hardhat-2.19.0-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
-
 A decentralized application (dApp) for managing hotel room bookings, built on Ethereum using Solidity and Hardhat. This smart contract ensures secure and transparent processes for room bookings, check-ins, check-outs, and reviews.
 
 ---
@@ -194,15 +190,5 @@ Contributions are welcome! Follow these steps to contribute:
    ```
 5. Open a pull request.
 
----
 
-## Contact
-
-For questions, feedback, or contributions, please reach out:
-
-- **Your Name**  
-- **Email**: [your-email@example.com](ucheroyal990@gmail.com) 
-- **GitHub**: [your-username](https://github.com/codebasebo)
-
----
 
